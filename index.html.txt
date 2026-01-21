@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Midnight Desire Stories</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section class="welcome">
+  <h1>Midnight Desire Stories</h1>
+  <p>Step into a world where imagination ignites every word. Original, fictional erotic stories for adults 18+ only.</p>
+  <p>No videos. No images. Just text you can enjoy privately on any device. New stories weekly.</p>
+  <a href="stories.html">→ Read Stories</a>
+</section>
+</body>
+</html>
+

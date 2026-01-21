@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Summer Rain on Rue des Saints</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section>
+<h2>Summer Rain on Rue des Saints</h2>
+<p>She dashed into the little bookstore just as the rain began, and he offered her a warm smile. The storm outside mirrored the tension growing between them. Words lingered longer than glances, until the thunder outside couldn’t match the sparks inside. A night of quiet confession and fleeting touches, entirely their own.</p>
+<p><a href="stories.html">← Back to Stories</a></p>
+</section>
+</body>
+</html>
+

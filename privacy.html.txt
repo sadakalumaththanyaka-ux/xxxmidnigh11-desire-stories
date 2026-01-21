@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy – Midnight Desire Stories</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section class="privacy">
+<h2>Privacy Policy</h2>
+<p>This site is static and does not collect personal information. Third-party advertisers (like Adsterra) may use cookies for ads and traffic stats. Users can manage cookies in their browser settings.</p>
+</section>
+</body>
+</html>

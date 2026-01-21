@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Disclaimer – Midnight Desire Stories</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section class="legal">
+<h2>Legal Disclaimer</h2>
+<p>All content is fictional and for entertainment purposes only. No characters depict real persons. This site is strictly for adults 18+.</p>
+</section>
+</body>
+</html>
+

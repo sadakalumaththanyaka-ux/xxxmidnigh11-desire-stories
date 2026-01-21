@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Age Verification – Midnight Desire Stories</title>
+  <style>
+    body{font-family:Arial,sans-serif;background:#111;color:#eee;text-align:center;padding:15vh 5vw}
+    h1{margin-bottom:1em}
+    button{font-size:1.1em;padding:.6em 1.2em;margin:.5em;border:none;cursor:pointer}
+    .enter{background:#6c4c77;color:#fff}
+    .leave{background:#444;color:#ccc}
+  </style>
+</head>
+<body>
+<h1>Adults Only – 18+</h1>
+<p>This website contains fictional erotic stories intended for adults aged 18 or older. By entering, you confirm you meet the age requirement.</p>
+<button class="enter" onclick="window.location.href='index.html'">I am 18+ Enter</button>
+<button class="leave" onclick="window.location.href='https://google.com'">Leave Site</button>
+</body>
+</html>

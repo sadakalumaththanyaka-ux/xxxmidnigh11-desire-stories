@@ -1,0 +1,10 @@
+xxxmidnight-desire-stories/
+│
+├── index.html          ← Homepage (welcome section)
+├── stories.html        ← Stories list page
+├── story1.html         ← First adult story (sample)
+├── age-warning.html    ← 18+ Age verification
+├── disclaimer.html     ← Legal disclaimer
+├── privacy.html        ← Privacy policy
+├── style.css           ← CSS (dark, stylish)
+

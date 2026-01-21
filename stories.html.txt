@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Stories – Midnight Desire Stories</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section>
+  <h2>Latest Stories</h2>
+  <ul class="story-list">
+    <li><h3>Summer Rain on Rue des Saints</h3><p>An American painter and a French bookseller take shelter from a sudden storm—discovering warmth beyond the rain.</p></li>
+    <li><h3>First-Class Upgrade</h3><p>A last-minute seat change brings two strangers closer than either expected at 30,000 feet.</p></li>
+    <li><h3>The Lighthouse Keeper’s Lantern</h3><p>On a remote island, a lonely keeper and a visiting photographer share a night guided by candlelight.</p></li>
+    <li><h3>Rehearsal Dinner, After Hours</h3><p>After the guests leave, two members of the wedding party discover the hall still holds heat.</p></li>
+    <li><h3>Midnight Vinyl</h3><p>A late-night radio DJ answers a call that asks for something far more personal than a song request.</p></li>
+  </ul>
+</section>
+</body>
+</html>
+
